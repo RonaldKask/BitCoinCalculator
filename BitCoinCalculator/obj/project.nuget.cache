@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8Vt8XROGHCd5hHamS7BZIjvrLDUaKAOUPdb1Vw6wkplIEJGDDlvDuutFlBU9eLpfBVhpxZFEPoOob7PgKoSDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcu\\source\\repos\\BitCoinCalculator\\BitCoinCalculator\\BitCoinCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
